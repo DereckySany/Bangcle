@@ -28,3 +28,4 @@ java -jar Bangcle.jar b AppName
 ```
 
 The encrypted Apk is located at **output** folder
+
