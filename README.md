@@ -20,4 +20,4 @@ Suporte a versão do Android
 ```
 java - jar  Bangcle . jar  b  AppName
 ```
-O Apk criptografado está localizado na pasta **output**.
+- O Apk criptografado está localizado na pasta **output**.
