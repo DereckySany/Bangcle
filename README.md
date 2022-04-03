@@ -1,31 +1,23 @@
-# About
+# Sobre
+### Bangcle é um protetor Android
 
-Bangcle  is a Android Protector
+- Ele usa a proteção de proteção do Android de segunda geração, carrega o arquivo dex criptografado da memória dinamicamente
 
-It use  the  second generation Android Hardening Protection, load the encrypted dex file from memory dynamically
-
-## Compatibility
-
-Support Android Version  
+### Compatibilidade
+Suporte a versão do Android
 
 - 4.4
-- 5.0
+- 5,0
 - 5.1
-- 6.0
-- 7.0
+- 6,0
+- 7,0
 - 7.1
-- 8.0
+- 8,0
 - 8.1
-
-### How to use
-
-Enter **bangcle_tool** directory    
-Run this command to protect you App
-
-```java
-java -jar Bangcle.jar b AppName
+## Como usar
+- Entre no diretório **bangcle_tool**
+- Execute este comando para proteger seu aplicativo:
 ```
-
-The encrypted Apk is located at **output** folder
-
-
+java - jar  Bangcle . jar  b  AppName
+```
+O Apk criptografado está localizado na pasta **output**.
